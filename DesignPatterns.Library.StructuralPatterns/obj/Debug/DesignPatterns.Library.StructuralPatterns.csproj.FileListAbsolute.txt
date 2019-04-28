@@ -7,3 +7,6 @@ C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPattern
 C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.StructuralPatterns\obj\Debug\DesignPatterns.Library.StructuralPatterns.csproj.CopyComplete
 C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.StructuralPatterns\obj\Debug\DesignPatterns.Library.StructuralPatterns.dll
 C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.StructuralPatterns\obj\Debug\DesignPatterns.Library.StructuralPatterns.pdb
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.StructuralPatterns\bin\Debug\Data\categories.json
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.StructuralPatterns\bin\Debug\Data\employees.xml
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.StructuralPatterns\bin\Debug\Data\iris.txt

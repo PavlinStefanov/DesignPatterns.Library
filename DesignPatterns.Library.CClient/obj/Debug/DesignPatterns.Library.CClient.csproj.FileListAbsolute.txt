@@ -1,0 +1,15 @@
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.CClient\bin\Debug\Data\categories.json
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.CClient\bin\Debug\Data\employees.xml
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.CClient\bin\Debug\Data\iris.txt
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.CClient\bin\Debug\DesignPatterns.Library.CClient.exe.config
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.CClient\bin\Debug\DesignPatterns.Library.CClient.exe
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.CClient\bin\Debug\DesignPatterns.Library.CClient.pdb
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.CClient\bin\Debug\DesignPatterns.Library.StructuralPatterns.dll
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.CClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.CClient\bin\Debug\DesignPatterns.Library.StructuralPatterns.pdb
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.CClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.CClient\obj\Debug\DesignPatterns.Library.CClient.csprojAssemblyReference.cache
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.CClient\obj\Debug\DesignPatterns.Library.CClient.csproj.CoreCompileInputs.cache
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.CClient\obj\Debug\DesignPatterns.Library.CClient.csproj.CopyComplete
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.CClient\obj\Debug\DesignPatterns.Library.CClient.exe
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.CClient\obj\Debug\DesignPatterns.Library.CClient.pdb
