@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -41,7 +44,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Adapter\Adapters\AdaptersHandler.cs" />
+    <Compile Include="Adapter\Adapters\IAdapterHandler.cs" />
+    <Compile Include="Adapter\Adapters\IDataSourceAdapter.cs" />
+    <Compile Include="Adapter\Adapters\JsonfileAdapter.cs" />
+    <Compile Include="Adapter\Adapters\TextfileAdapter.cs" />
+    <Compile Include="Adapter\Adapters\XmlfileAdapter.cs" />
+    <Compile Include="Adapter\Client\BulkOperations.cs" />
+    <Compile Include="Adapter\Helpers\DataTableProjection.cs" />
+    <Compile Include="Adapter\Readers\Category.cs" />
+    <Compile Include="Adapter\Readers\Employee.cs" />
+    <Compile Include="Adapter\Readers\EmployeeXmlMapper.cs" />
+    <Compile Include="Adapter\Readers\IModel.cs" />
+    <Compile Include="Adapter\Readers\IReader.cs" />
+    <Compile Include="Adapter\Readers\IrisModel.cs" />
+    <Compile Include="Adapter\Readers\JsonfileReader.cs" />
+    <Compile Include="Adapter\Readers\TextfileReader.cs" />
+    <Compile Include="Adapter\Readers\XmlfileReader.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
