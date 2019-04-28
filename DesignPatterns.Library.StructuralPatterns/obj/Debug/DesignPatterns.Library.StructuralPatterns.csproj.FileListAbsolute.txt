@@ -1,0 +1,6 @@
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.StructuralPatterns\bin\Debug\DesignPatterns.Library.StructuralPatterns.dll
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.StructuralPatterns\bin\Debug\DesignPatterns.Library.StructuralPatterns.pdb
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.StructuralPatterns\obj\Debug\DesignPatterns.Library.StructuralPatterns.csprojAssemblyReference.cache
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.StructuralPatterns\obj\Debug\DesignPatterns.Library.StructuralPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.StructuralPatterns\obj\Debug\DesignPatterns.Library.StructuralPatterns.dll
+C:\Users\Pavlin\Source\Repos\PavlinStefanov\DesignPatterns.Library\DesignPatterns.Library.StructuralPatterns\obj\Debug\DesignPatterns.Library.StructuralPatterns.pdb
